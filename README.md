@@ -28,4 +28,4 @@ cd INNOCEMT-ALL-in-One
 
 python 420.py 
 
-![420](https://ibb.co/pdHLb82) 
+<img src="https://ibb.co/pdHLb82">

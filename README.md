@@ -8,8 +8,6 @@ pkg install python2
 
 pkg install git
 
-pkg install espeak
-
 pip install requests
 
 pip install mechanize
@@ -30,4 +28,4 @@ cd INNOCEMT-ALL-in-One
 
 python 420.py 
 
-![420](https://ibb.co/pdHLb82)
+![420](https://ibb.co/pdHLb82) 

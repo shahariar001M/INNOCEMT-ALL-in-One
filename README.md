@@ -20,7 +20,7 @@ pip install bs4
 
 pip install g4rzk
 
-rm -rf INNOCEMT-ALL-in-One
+rm -rf INNOCENT-ALL-in-One
 
 git clone https://github.com/shahariar001M/INNOCEMT-ALL-in-One.git
 
